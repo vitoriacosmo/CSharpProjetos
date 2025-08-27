@@ -21,6 +21,7 @@ namespace Exercicio12.Entities
         {
             return Price + CustomsFee;
         }
+
         public override string PriceTag()
         {
             return Name
