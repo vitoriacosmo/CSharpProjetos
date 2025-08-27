@@ -1,8 +1,8 @@
-﻿using Exercicio;
+﻿using Exercicio08;
 using System;
 using System.Globalization;
 
-namespace Curso
+namespace Exercicio08
 {
     class Program
     {

@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercicio
+namespace Exercicio09
 {
     class Dados
     {

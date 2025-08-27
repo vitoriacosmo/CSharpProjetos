@@ -1,4 +1,4 @@
-﻿namespace PrimeiroProjeto
+﻿namespace Exercicio05
 {
     internal class Dados
     {

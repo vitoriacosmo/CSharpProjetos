@@ -1,8 +1,7 @@
-﻿using PrimeiroProjeto;
-using System;
+﻿using System;
 using System.Globalization;
 
-namespace Curso
+namespace Exercicio06
 {
     class Program
     {

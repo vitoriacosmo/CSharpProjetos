@@ -1,7 +1,6 @@
 ﻿using System;
-using PrimeiroProjeto;
 
-namespace questoes
+namespace Exercicio05
 {
     class Program
     {

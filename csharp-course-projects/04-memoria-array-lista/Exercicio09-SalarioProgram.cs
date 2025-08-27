@@ -1,7 +1,5 @@
-﻿using Exercicio;
-using PrimeiroProjeto;
-
-namespace Curso
+﻿
+namespace Exercicio09
 {
     class Program
     {

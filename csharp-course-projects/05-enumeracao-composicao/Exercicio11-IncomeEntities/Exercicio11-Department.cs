@@ -2,7 +2,7 @@
 using System;
 using Course.Entities;
 
-namespace Course.Entities
+namespace Exercicio11.Entities
 {
     internal class Department
     {

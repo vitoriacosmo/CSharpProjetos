@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Exercicio01
+namespace Exercicio04
 {
     internal class Triangulo
     {

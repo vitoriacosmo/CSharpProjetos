@@ -1,9 +1,6 @@
-﻿using Exercicio01;
-using PrimeiroProjeto;
-using System;
-using System.Globalization;
+﻿using System.Globalization;
 
-namespace questoes
+namespace Exercicio04
 {
     class Program
     {

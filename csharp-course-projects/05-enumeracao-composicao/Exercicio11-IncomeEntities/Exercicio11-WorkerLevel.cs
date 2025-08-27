@@ -1,8 +1,7 @@
 ﻿using System;
 
-namespace Course.Entities.Enums
+namespace Exercicio11.Entities.Enums
 {
-
     enum UserLevel : int
     {
         Junior = 0,

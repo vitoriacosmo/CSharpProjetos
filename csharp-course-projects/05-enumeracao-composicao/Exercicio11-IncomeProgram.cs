@@ -1,8 +1,7 @@
 ﻿using System.Globalization;
-using Course.Entities;
-using Course.Entities.Enums;
+using Exercicio11.Entities;
 
-namespace Course
+namespace Exercicio11
 {
     class Program
     {

@@ -1,7 +1,7 @@
 ﻿using Exercicio;
 using System;
 
-namespace Curso
+namespace Exercicio10
 {
     class Program
     {

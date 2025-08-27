@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PrimeiroProjeto
+namespace Exercicio06
 {
     internal class Notas
     {

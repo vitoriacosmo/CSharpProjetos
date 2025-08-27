@@ -1,7 +1,7 @@
 ﻿using System;
-using Course.Entities.Enums;
+using Exercicio11.Entities.Enums;
 
-namespace Course.Entities
+namespace Exercicio11.Entities
 {
     internal class Worker
     {

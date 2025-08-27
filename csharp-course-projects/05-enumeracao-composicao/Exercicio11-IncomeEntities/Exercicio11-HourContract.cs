@@ -1,7 +1,7 @@
 ﻿using System;
-using Course.Entities;
+using Exercicio11.Entities;
 
-namespace Course.Entities
+namespace Exercicio11.Entities
 {
     internal class HourContract
     {
