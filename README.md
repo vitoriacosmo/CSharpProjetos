@@ -3,7 +3,7 @@
 <p>Repositório criado para armazenar os exercícios e projetos desenvolvidos durante meu estudo de <strong>c#</strong>. Aqui estão incluídas práticas de fundamentos da linguagem, orientação a objetos, coleções, arquivos, linq, delegates, lambda expressions, entre outros tópicos.</p>
 
 <h2>🧾 Estrutura do Repositório</h2>
-<p>cada pasta corresponde a uma seção ou exercício do curso, com código comentado para facilitar o entendimento.</p>
+<p>Cada pasta corresponde a uma seção ou exercício do curso, com código comentado para facilitar o entendimento.</p>
 
 <pre>
 01-fundamentos
