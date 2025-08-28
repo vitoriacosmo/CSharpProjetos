@@ -22,7 +22,6 @@ namespace Exercicio12
                 Console.Write("Price: ");
                 double price = double.Parse(Console.ReadLine());
 
-
                 if (caractere == 'c')
                 {
                     list.Add(new Product(name, price));
@@ -33,7 +32,6 @@ namespace Exercicio12
                     Console.Write("Manufacture date (DD/MM/YYYY): ");
                     DateTime date = DateTime.Parse(Console.ReadLine());
                     list.Add(new UsedProduct(name, price, date));
-
                 }
 
                 else
@@ -41,7 +39,6 @@ namespace Exercicio12
                     Console.Write("Customs fee: ");
                     double fee = double.Parse(Console.ReadLine());
                     list.Add(new ImportedProduct(name, price, fee));
-
                 }
 
                 Console.WriteLine();
