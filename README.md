@@ -1,7 +1,6 @@
 <p align="center">
-<img width="500" height="250" alt="csharpprojetos" src="https://github.com/user-attachments/assets/1bdb1825-55f0-4598-b796-7f38cd2f9b29" />
+  <img width="500" height="250" alt="csharpprojetos" src="https://github.com/user-attachments/assets/03b9078d-df35-4fa1-9994-dd9b7a94b4a6" />
 </p>
-
 
 repositório criado para armazenar exercícios e projetos desenvolvidos durante meu estudo de <code>c#</code>. aqui estão incluídas práticas de fundamentos da linguagem, orientação a objetos, coleções, arquivos, linq, delegates, lambda expressions e outros tópicos importantes.  
 
