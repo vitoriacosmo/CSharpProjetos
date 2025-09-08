@@ -1,0 +1,9 @@
+﻿Linha um do arquivo de leitura
+
+Linha doism do arquivo de leitura
+
+Linha três do arquivo de leitura
+
+Linha quatro do arquivo de leitura
+
+Linha cinco do arquivo de leitura
